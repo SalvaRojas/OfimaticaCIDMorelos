@@ -1,0 +1,36 @@
+body{
+font-family:arial,helvetica;
+text-decoration:blink; 
+}
+.menu{
+	list-style:none;
+	padding:0;
+	background:#020A6A;
+	width:auto;
+    height: auto;
+	max-width: 3000px;
+margin:auto;
+}
+.menu li a{
+	text-decoration: blink;
+	color: white;
+	padding: 20px;
+	display:block;
+}
+	
+	.menu li{
+		display: inline-block;
+		text-align:center;
+		
+	}
+	.menu li a:hover{
+		background:#FE2E2E;
+		}
+		
+	h1{
+	font-family:  "Times New Roman",Georga,serfir;
+	font-size:"6";
+	font-weight:"bold";
+	text-align:center;
+	text
+	
